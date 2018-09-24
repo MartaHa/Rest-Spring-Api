@@ -1,0 +1,5 @@
+pl/marta/motorest/repository/MotorcycleRepository.class
+pl/marta/motorest/MotorestApplication.class
+pl/marta/motorest/controller/MotorcycleController.class
+pl/marta/motorest/exception/ResourceNotFoundException.class
+pl/marta/motorest/entity/Motorcycle.class
